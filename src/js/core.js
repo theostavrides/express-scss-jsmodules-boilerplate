@@ -1,3 +1,3 @@
-import { x } from './jsmodules/enemies.mjs';
+import { x } from './jsmodules/examplemodule.mjs';
 
 x();
